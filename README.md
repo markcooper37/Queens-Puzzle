@@ -1,3 +1,3 @@
 # Queens-Puzzle
 
-JavaScript code for solving the eight queens puzzle for any number of queens.
+JavaScript code for solving the generalised eight queens puzzle.
